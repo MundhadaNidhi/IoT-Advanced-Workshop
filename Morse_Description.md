@@ -8,4 +8,4 @@ Pushbutton and LED
 Jumper wires & Breadboard for connections
 Arduino IDE : https://www.arduino.cc/en/software/
 
-Collaborators : Gaurav Govilkar, Om Shetty, Nidhi Mundhada
+Collaborators : Nidhi Mundhada, Gaurav Govilkar, Om Shetty
